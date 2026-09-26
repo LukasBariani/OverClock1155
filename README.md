@@ -29,6 +29,6 @@ Em desenvolvimento
 - Pontuação: A definir
 
 <p align="center">
-  <img src="/images/1155-do-et-et.jpg" width="300" alt="SECO SECO">
+  <img src="/images/1155-do-et-et.gif" width="300" alt="SECO SECO">
   <img src="/images/1155-et.gif" width="300" alt="SECO SECO 2">
 </p>
